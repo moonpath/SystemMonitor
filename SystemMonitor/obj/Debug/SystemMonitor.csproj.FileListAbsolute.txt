@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe.config
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.SystemMonitor.resources
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.exe
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\bin\Debug\SystemMonitor.pdb
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.exe
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.pdb
+d:\documents\visual studio 2015\Projects\SystemMonitor\SystemMonitor\obj\Debug\SystemMonitor.csprojResolveAssemblyReference.cache
